@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "role": "Persist Ventures, Chief Technology Officer(CTO)",
+    "organisation": "",
+    "startDate": "April, 2024",
+    "endDate": "Present",
+    "location": "LA,United States",
+    "experiences": [
+      
+    ],
+    "imageSrc": "company/persist ventures.jpg"
+  },
+  {
+    "id": 2,
+    "role": " AI Software Development Engineer",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
+    "location": "Remote, Hybrid",
+    "experiences": [
+      "Artificial Intelligence(AI),Natural Langugage Processing(NLP),Software Developement,Prompt Engineering etc"
+    ],
+    "imageSrc": "company/heydaw.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer",
+    "organisation": "Netflix",
+    "startDate": "May, 2021",
+    "endDate": "April, 2023",
+    "location": "Remote, Hybrid",
+    "experiences": [
+      "Swagger API, Python, Docker, Kubernetes , R&D, Rest APIs, Linux, Jenkins etc"
+    ],
+    "imageSrc": "company/telaverge.jpg"
+  }
+]

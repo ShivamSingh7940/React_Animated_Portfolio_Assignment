@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Artificial Intelligence",
+    "imageSrc": "skills/AI.jpg"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/ML.jpg"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
+  },
+  {
+    "title":"Docker",
+    "imageSrc":"skills/docker.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.jpg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins.png"
+  }
+]
